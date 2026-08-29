@@ -30,4 +30,4 @@ Elementos Gráficos Formação EAD IFTP-AL
 | <img src='https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Papel%20Lupa.png' width='45'> | `Papel Lupa.png` | `https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Papel%20Lupa.png` |
 | <img src='https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Rabisco.png' width='45'> | `Rabisco.png` | `https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Rabisco.png` |
 | <img src='https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Reda%C3%A7%C3%A3o.png' width='45'> | `Redação.png` | `https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Reda%C3%A7%C3%A3o.png` |
-PS C:\Users\marce\OneDrive\Desktop\Teste> 
+
